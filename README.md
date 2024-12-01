@@ -1,4 +1,5 @@
 **Customer Churn Analysis and Retention Strategies**
+
 This project leverages SQL-driven analysis to uncover key insights into customer behavior and churn. The objective is to identify factors influencing customer attrition, segment high-risk customers, and propose actionable strategies to enhance retention. By analyzing patterns in purchase frequency, order value, product preferences, and regional trends, this project aims to provide data-driven recommendations for mitigating churn and driving long-term growth.
 
 **Key Objectives**
